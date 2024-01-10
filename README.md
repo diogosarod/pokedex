@@ -1,6 +1,7 @@
 # Pokedex
 
 Bem-vindo ao repositório da Pokedex! Este é um projeto simples de Pokedex construído em HTML5, CSS3, JAVASCRIPT e com uso de API para buscas no servidor responsavel pelo fornecimento dos pokemons.
+<img src="/pokedexScreen.png" alt="Pokedex Screen / Imagem">
 
 ## Instruções de Uso
 
