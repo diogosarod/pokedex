@@ -14,6 +14,10 @@ body {
     background-color: #fff;
 }
 
+.pokeball{
+    height: 30px;
+}
+
 @media screen and (min-width: 992px) {
     .content {
         max-width: 992px;
